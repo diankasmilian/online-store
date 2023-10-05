@@ -1,0 +1,98 @@
+[
+   {
+     "id": 1,
+     "title": "Шафа розпашна 'Victory'",
+     "img": "https://cdn.taburetka.ua/8d/d9/q5l9owx2hbz8mdsskl11fi3meihh1.webp",
+     "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+     "category": "wardrobe",
+     "price": "199.99"
+   },
+   {
+      "id": 2,
+      "title": "Шафа купе 'Loft'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/b7e927c3c55130c350585e9444ae3372.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "wardrobe",
+      "price": "149.99"
+    },
+    {
+      "id": 3,
+      "title": "Шафа для одягу 'Гелар'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/43794748c6109d349a0142f99ccd5104.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "wardrobe",
+      "price": "249.99"
+    },
+    {
+      "id": 4,
+      "title": "Ліжко 'Борно'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/762_0.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "bed",
+      "price": "69.99"
+    },
+    {
+      "id": 5,
+      "title": "Ліжко 'Честер'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/819_0.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "bed",
+      "price": "39.99"
+    },
+    {
+      "id": 6,
+      "title": "Ліжко 'Прем'єра'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/93fe68fe5f9f844ae6f19981f24484f6.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "bed",
+      "price": "59.99"
+    },
+    {
+      "id": 7,
+      "title": "Стілець обідній 'Жасмін'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/b8d44580bcdf2db14424f99e5fedcbc1.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "chairs",
+      "price": "39.99"
+    },
+    {
+      "id": 8,
+      "title": "Стілець обідній 'Arkansas'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/36f55ec0c8c5f48d738d29a0b1263c47.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "chairs",
+      "price": "29.99"
+    },
+    {
+      "id": 9,
+      "title": "Стілець обідній 'Indiana'",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/c94064593e46e12ff28aebdd6c8c13d4.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "chairs",
+      "price": "24.99"
+    },
+    {
+      "id": 10,
+      "title": "Стіл обідній 'Ленард'",
+     "img": "https://cdn.taburetka.ua/bz/6o/o2301hagit1kiecbtxbpppo1kvry5.webp",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "table",
+      "price": "84.99"
+    },
+    {
+      "id": 11,
+      "title": "Стіл обідній 'Вінсент'",
+     "img": "https://cdn.taburetka.ua/20/ns/ro9d2aj6jc7a7cj9o359irnrhgslq.webp",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "table",
+      "price": "69.99"
+    },
+    {
+      "id": 12,
+      "title": "Комод",
+     "img": "https://cdn.taburetka.ua/images/product_images/info_images/2dd27bcf14c80139fb15e020d893312b.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "category": "commode",
+      "price": "74.99"
+    }
+ ]
